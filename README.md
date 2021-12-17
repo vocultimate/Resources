@@ -3,6 +3,8 @@ English Learning Resources
 
 1. **Dictionaries**
      - [Online Dictionaries](https://github.com/vocultimate/Resources/blob/main/Online_Dictionaries.md)
+2. **Word of the day**
+     - [Learn a word a day from these sites](https://github.com/vocultimate/Resources/blob/main/Word_of_the_day.md)
 
 
 ### About Vocultimate
