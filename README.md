@@ -1,5 +1,5 @@
 # Resources
-English Learning Resources
+### English Learning Resources
 
 1. **Dictionaries**
      - [Online Dictionaries](https://github.com/vocultimate/Resources/blob/main/Online_Dictionaries.md)
@@ -35,4 +35,6 @@ Scores of languages from around the world influenced the English language. Some 
 I hope you find information presented in these pages useful. Keep learning, have patience, and remember that consistency is the key. This journey will be worthwhile and rewarding in the end.
 
 _"Life is tons of discipline. Your first discipline is your vocabulary; then your grammar and your punctuation." ~ Robert Frost_
+
+#### For more helpful tips on building vocabulary: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Vocultimate.svg?style=social&label=Follow%20%40Vocultimate)](https://twitter.com/vocultimate)
 
