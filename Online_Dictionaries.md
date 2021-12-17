@@ -19,3 +19,6 @@
 18. [Lexico](https://www.lexico.com/)
 19. [Medical Dictionary](https://openmd.com/dictionary/)
 20. [Online Etymology Dictionary](https://www.etymonline.com/)
+21. [Collocations Dictionary](https://ozdic.com/)
+22. [Macmillan Collocations Dictionary](https://www.macmillandictionary.com//browse/collocations/american/a/)
+23. [Australian National Dictionary](https://australiannationaldictionary.com.au/)
