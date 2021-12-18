@@ -14,7 +14,7 @@
 6. **Collocation, idioms, and phrases**
      - Develop a natural fluency of a native speaker by learning about collocation, idioms, and phrasal verbs...**coming soon**
 7. **Book Summaries**
-     - Learn the big ideas,insights, and takeaways from these bite-sized summaries of popular non-fiction books...**coming soon**
+     - [Top Websites for Free Book Summaries](https://github.com/vocultimate/Resources/blob/main/Book_Summaries.md) Learn the big ideas,insights, and takeaways from these bite-sized summaries of popular non-fiction books.
 8. **Free Books**
      -  Download or read online these classic books which are in the public domain...**coming soon**
 9. **Speed Reading**
