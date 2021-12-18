@@ -6,11 +6,24 @@
 2. **Word of the day**
      - [Learn a word a day from these sites](https://github.com/vocultimate/Resources/blob/main/Word_of_the_day.md)
 3. **Language learning**
-     - Learn English from these popular site...**coming soon**
+     - Learn English from these popular sites...**coming soon**
 4. **From the grammarians**
      - Learn English Grammar...**coming soon**
 5. **Etymology**
      - Learn about the origins and history of words, and interesting and fascinating stories behind them...**coming soon**
+6. **Collocation, idioms, and phrases**
+     - Develop a natural fluency of a native speaker by learning about collocation, idioms, and phrasal verbs...**coming soon**
+7. **Book Summaries**
+     - Learn the big ideas,insights, and takeaways from these bite-sized summaries of popular non-fiction books...**coming soon**
+8. **Free Books**
+     -  Download or read online these classic books which are in the public domain...**coming soon**
+9. **Speed Reading**
+     -  Learn to skim,skip, and read better and faster...**coming soon**
+10. **Reading**
+      - Learning a new language is like acquiring any other skill. The more you practice, the better you get. Develop your reading habits with these magazines,newspapers, and blogs...**coming soon**
+ 11. **Exams**
+       - Prepare for standardized English exams - IELTS, TOEFL, SAT, etc....**coming soon**
+
 
 
 ### About Vocultimate
