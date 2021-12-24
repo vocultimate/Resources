@@ -1,4 +1,4 @@
-## List of Online Dictionaries
+## List of Online Dictionaries and Thesauri
 1. [Oxford Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/)
 2. [Cambridge Dictionary](https://dictionary.cambridge.org/)
 3. [Merriam Webster](https://www.merriam-webster.com/)
@@ -24,3 +24,5 @@
 23. [Macmillan Collocations Dictionary](https://www.macmillandictionary.com//browse/collocations/american/a/)
 24. [Dictionary of Unusual Words](https://phrontistery.info/ihlstart.html)
 25. [Australian National Dictionary](https://australiannationaldictionary.com.au/)
+26. [Power Thesaurus](https://www.powerthesaurus.org/)
+27. [Thesaurus.plus](https://thesaurus.plus/)
