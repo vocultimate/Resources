@@ -16,7 +16,7 @@
 7. **Book Summaries**
      - [Top Websites for Free Book Summaries](https://github.com/vocultimate/Resources/blob/main/Book_Summaries.md) Learn the big ideas,insights, and takeaways from these bite-sized summaries of popular non-fiction books.
 8. **Free Books**
-     -  Download or read online these classic books which are in the public domain...**coming soon**
+     -  [Free public domain audiobooks and eBooks](https://github.com/vocultimate/Resources/blob/main/Books.md)
 9. **Speed Reading**
      -  Learn to skim,skip, and read better and faster...**coming soon**
 10. **Reading**
