@@ -1,0 +1,16 @@
+Free public domain audiobooks and eBooks
+------
+1. [Classic Literature](https://classic-literature.co.uk/)
+2. [Wikisource, the free library](https://wikisource.org/wiki/Main_Page)
+3. [Internet Sacred Text Archive](https://www.sacred-texts.com/index.htm)
+4. [Open Culture: 800 free eBooks](https://www.openculture.com/free_ebooks)
+5. [Authorama: Public Domain Books](http://www.authorama.com/)
+6. [International Children's Digital Library](http://childrenslibrary.org/library/books.html)
+7. [The Library of Congress: Classic Books](http://read.gov/books/)
+8. [Librivox free public domain audiobooks](https://librivox.org/)
+9. [Project Gutenberg: over 60,000 free eBooks](https://www.gutenberg.org/)
+10. [Planet Publish:Free PDF eBooks Archive by Planet PDF](http://www.planetpublish.com/)
+11. [Loyal Books: Free Public Domain Audiobooks & eBooks](http://www.loyalbooks.com/)
+12. [Manybooks: great selection of modern and classic books](https://manybooks.net/)
+14. [University of Pennsylvania Library: over 3 million free books](http://digital.library.upenn.edu/books/)
+15. [Bartleby: great Books Online - Quotes, Poems, Novels, Classics and hundreds more](https://www.bartleby.com/index.html)
