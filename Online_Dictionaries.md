@@ -29,3 +29,5 @@
 28. [Thesaurus.plus](https://thesaurus.plus/)
 29. [The Phrontistery - rare or obscure word](https://phrontistery.info/)
 30. [Dictionary of English Slang & Colloquialisms](http://www.peevish.co.uk/slang/)
+31. [WordHippo- Thesaurus and word tools for your creative needs](https://www.wordhippo.com/)
+32. [Visual Dictionary](https://visuwords.com/)
